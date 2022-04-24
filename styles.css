@@ -27,7 +27,7 @@ border-radius: 20px 20px 0 0;
 .text-zone{
   font-family: 'Red Hat Display', sans-serif;
   font-size: 16px;
-  padding:8%;
+  padding:5%;
 }
 
 .order-summary{
@@ -41,7 +41,7 @@ border-radius: 20px 20px 0 0;
 
  .description{
 color:hsl(224, 23%, 55%);
-width:80%;
+width:63%;
 margin: auto;
 margin-bottom: 5%;
 line-height: 1.6;
@@ -148,9 +148,12 @@ font-weight: bolder;
 .price{
   font-size:13px;
   width:34%;
+  margin-left: 30%;
 }
 .music-icon{
   width:20%;
+  position: absolute;
+  bottom:8%;
 }
 .change{
   top:30%;
@@ -158,6 +161,6 @@ font-weight: bolder;
 .description{
   font-size: 13px;
   font-weight: 300;
-  width:83%;
+  width:75%;
 }
  }
